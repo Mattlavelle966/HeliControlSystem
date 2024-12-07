@@ -1,0 +1,9 @@
+1. Sequence File's Integration
+  modify logic and all 6 sequence files so that only one file is needed to handle all six tasks
+2. Font-End UI
+  1. More info for user. 
+  2. warning Before reload sequence that ensures gun is disassebled
+  3. Improved Throttle Ui
+3. New Features
+  1. Throttle UI Update
+  2. display link and display screen ammo counter
